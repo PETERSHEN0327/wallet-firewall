@@ -1,0 +1,22 @@
+# ===== Python =====
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Environment / Secrets =====
+.env
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ===== Streamlit =====
+.streamlit/
+
+# ===== Database (local dev) =====
+data/app.db
+
+# ===== Logs =====
+*.log
